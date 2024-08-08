@@ -53,7 +53,7 @@ To use the OMDb API, you need to set up an API key.
 1. Create a `.env` file in the root of the project.
 2. Add your OMDb API key as follows:
    ```
-   REACT_APP_OMDB_API_KEY=your_api_key_here
+   http://www.omdbapi.com/?apikey=[yourkey]&s=[query]
    ```
 
 ## 🖼️ Screenshots
