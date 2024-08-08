@@ -4,7 +4,7 @@ Certainly! Here's a sample README file that is professional and visually appeali
 
 # 🎥 usePopcorn - Movie Watchlist App
 
-![usePopcorn Logo](path_to_logo.png)
+🍿
 
 **usePopcorn** is a sleek and modern React-based movie watchlist application that allows users to search for movies, view details, and keep track of the movies they've watched. Leveraging the OMDb API, usePopcorn offers a simple and interactive interface to enhance your movie-watching experience.
 
@@ -29,17 +29,20 @@ Before you begin, ensure you have met the following requirements:
 ### Installation
 
 1. **Clone the repository**:
+
    ```bash
    git clone https://github.com/KarimAdel-1/usePopcorn.git
    cd usePopcorn
    ```
 
 2. **Install dependencies**:
+
    ```bash
    npm install
    ```
 
 3. **Start the development server**:
+
    ```bash
    npm start
    ```
@@ -50,19 +53,17 @@ Before you begin, ensure you have met the following requirements:
 
 To use the OMDb API, you need to set up an API key.
 
-1. Create a `.env` file in the root of the project.
-2. Add your OMDb API key as follows:
-   ```
-   http://www.omdbapi.com/?apikey=[yourkey]&s=[query]
-   ```
+```
+http://www.omdbapi.com/?apikey=[yourkey]&s=[query]
+```
 
 ## 🖼️ Screenshots
 
-![Movie Search Screenshot](path_to_screenshot.png)
-*Search for movies and see results instantly.*
+![Movie Search Screenshot](./images/image.png)
+_Search for movies and see results instantly._
 
-![Movie Details Screenshot](path_to_screenshot.png)
-*View detailed information and add movies to your watchlist.*
+![Movie Details Screenshot](./images/image-2.png)
+_View detailed information and add movies to your watchlist._
 
 ## 📦 Deployment
 
@@ -82,7 +83,7 @@ The build files will be generated in the `build/` directory, which you can then 
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/your-username/usePopcorn/issues) and submit a PR.
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/KarimAdel-1/usePopcorn/issues) and submit a PR.
 
 1. Fork the project.
 2. Create your feature branch (`git checkout -b feature/AmazingFeature`).
