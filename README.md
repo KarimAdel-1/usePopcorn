@@ -1,6 +1,3 @@
-Certainly! Here's a sample README file that is professional and visually appealing for your movie app project:
-
----
 
 # 🎥 usePopcorn - Movie Watchlist App
 
