@@ -1,5 +1,5 @@
 {
-  homepage:"https://KarimAde-1.github.io/usePopcorn",
+  "homepage" :"https://KarimAde-1.github.io/usePopcorn",
   "name": "usepopcorn",
   "version": "0.1.0",
   "private": true,
