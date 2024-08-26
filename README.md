@@ -1,4 +1,3 @@
-
 # 🎥 usePopcorn - Movie Watchlist App
 
 🍿
