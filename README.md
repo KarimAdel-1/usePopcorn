@@ -14,6 +14,7 @@
 - **Keyboard Navigation**: Use the Escape key to easily close movie details.
 - **Responsive Design**: Fully responsive for use on desktops, tablets, and mobile devices.
 
+
 ## 🚀 Getting Started
 
 ### Prerequisites
